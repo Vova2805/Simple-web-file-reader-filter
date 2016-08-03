@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="gl-task:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="GL_task.war">
+      <element id="artifact" artifact-name="gl-task:war exploded" />
+    </root>
+  </artifact>
+</component>
