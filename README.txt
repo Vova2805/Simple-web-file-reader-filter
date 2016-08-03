@@ -1,5 +1,6 @@
-This is a simple WEB ServletAPI for filtering/querying text files.
+#This is a simple WEB ServletAPI for filtering/querying text files.
 
+[Quick view]()
 For starting with it perform following steps:
     1. Configure Tomcat 8.x
     2. Deploy GL_task.war file
